@@ -1,0 +1,51 @@
+---
+title: "Dynamic reporting of your SQL query entries"
+date: "`r format(Sys.time(), '%d.%m.%Y')`"
+output: html_document
+params:
+  analyte: str("")
+  xlim: list()
+  inputVal: NULL
+  refInt: list()
+  data: data.frame()
+  ciTRUE: NULL
+  ci: list(NA, NA, NA, NA)
+  
+---
+
+
+```{r setup, include=FALSE, eval=TRUE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# No sourcing of ouside ressources nessesary, because it is in the same envir! vERY SLICK :)
+
+```
+
+### Reference interval estimation  
+
+Your reference interval is **`r round(params$refInt[1],2)`** - **`r round(params$refInt[2],2)`**. With confidence (`r paste0(round(params$ci[c(1,2)],3),collapse = "-")`) and (`r paste0(round(params$ci[c(3,4)],3),collapse = "-")`)
+
+### Results 
+
+You loaded **`r length(params$data$lab_value)` datapoints** from the analyte **`r params$analyte`**.
+
+
+```{r, eval=FALSE, warning=TRUE, echo=FALSE, fig.height=3.5}
+
+params$data$lab_value %>%
+  as_tibble() %>%
+  shinyHistogram(., ana = params$analyte, xlimits = params$xlim, 
+                 inputVal = params$inputVal, 
+                 refLower = params$refInt[1], refUpper = params$refInt[2],
+                 ciTRUE = params$boostrapciTRUE,
+                 ciLower=params$ci[c(1,2)],ciUpper=params$ci[c(3,4)]) 
+
+
+```
+
+This Report was generated using R Shiny, using `r sessionInfo()$platform` and running `r sessionInfo()$running`
+
+
+```{r, eval=FALSE}
+sessionInfo()
+```

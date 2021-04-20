@@ -1,0 +1,2641 @@
+lab_test;LOINC;lab_value;diag01;diag02;diag03;diag04;diag05;age;sex;sample;gen_consent;cohort
+ALAT | U/L;1743-4;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;28;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;37;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;55;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;51;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;76;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;44;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;60;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;28;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;54;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;47;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;33;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;33;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;43;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;62;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;28;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;5;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;40;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;18;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;50;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;54;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;60;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;12;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;58;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;26;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;63;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;33;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;43;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;28;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;39;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;27;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;63;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;34;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;58;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;50;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;39;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;60;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;57;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;59;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;72;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;35;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;55;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;47;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;45;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;25;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;46;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;49;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;50;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;34;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;28;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;40;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;48;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;59;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;41;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;55;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;48;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;38;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;53;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;47;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;19;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;57;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;60;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;50;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;21;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;48;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;28;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;18;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;19;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;22;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;28;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;53;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;49;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;44;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;43;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;23;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;12;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;17;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;36;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;53;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;41;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;55;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;52;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;35;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;61;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;53;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;27;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;42;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;46;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;37;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;16;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;49;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;47;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;33;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;37;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;44;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;70;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;34;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;39;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;13;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;29;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;16;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;52;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;34;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;23;B01;B01;B01;B01;B01;42;M;routine;y;1
+ALAT | U/L;1743-4;58;B01;B01;B01;B01;B01;42;F;routine;y;1
+ALAT | U/L;1743-4;26;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;55;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;35;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;48;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;38;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+ALAT | U/L;1743-4;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+ALAT | U/L;1743-4;72;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;23;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;46;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;36;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;34;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;22;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;38;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;10;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;37;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;20;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;26;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;39;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;34;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;32;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;28;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;21;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;33;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;30;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;20;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;20;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;32;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;22;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;28;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;28;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;22;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;36;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;35;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;27;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;25;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;28;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;37;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;22;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;24;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;27;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;28;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;39;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;26;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;21;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;20;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;18;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;19;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;36;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;34;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;15;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;20;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;20;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;29;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;36;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;14;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;41;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;22;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;18;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;23;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;26;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;28;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;38;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;33;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;24;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;22;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;29;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;33;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;36;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;21;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;39;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;20;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;15;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;24;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;35;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;40;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;14;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;14;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;36;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;11;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;37;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;18;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;35;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;18;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;27;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;22;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;28;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;29;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;28;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;29;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;24;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;33;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;25;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;28;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;21;B01;B01;B01;B01;B01;42;M;routine;y;1
+ASAT | U/L;30239-8;27;B01;B01;B01;B01;B01;42;F;routine;y;1
+ASAT | U/L;30239-8;27;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;21;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;25;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;29;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;26;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;34;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;34;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;24;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;27;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;23;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;34;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;34;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;15;A00;A00;A00;A00;A00;42;F;routine;y;1
+ASAT | U/L;30239-8;26;A00;A00;A00;A00;A00;42;M;routine;y;1
+ASAT | U/L;30239-8;10;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;8.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;8.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;7.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;-0.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;8.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;7.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;0.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;2.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;6.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;3.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;1.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;5;A00;A00;A00;A00;A00;42;F;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+C-reaktives Protein | mg/L;1988-5;4.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;99;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;104;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;99;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;104;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;98;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;104;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;97;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;98;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;100;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;99;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;105;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;97;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;98;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;104;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;98;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;104;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;96;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;104;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;99;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;106;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;104;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;99;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;99;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;97;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;106;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;99;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;99;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;104;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;99;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;97;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;103;B01;B01;B01;B01;B01;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;104;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;100;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;99;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;99;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;98;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;100;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;100;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;104;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;99;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;100;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;97;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;103;A00;A00;A00;A00;A00;42;F;routine;y;1
+Chlorid | mmol/L;2075-0;101;A00;A00;A00;A00;A00;42;M;routine;y;1
+Chlorid | mmol/L;2075-0;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;101.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;69.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;93.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;65.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;60.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;99.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;94.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;85.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;64.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;77.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;76.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;73.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;55.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;81.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;74;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;68.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;77;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;76.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;90.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;88.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;78.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;87.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;88.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;79.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;58.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;91.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;81.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;70.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;71.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;71.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;67.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;80;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;78;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;77.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;87.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;67;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;81.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;95.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;73;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;77.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;86.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;50.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;46;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;47.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;32.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;71.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;67.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;51.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;67.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;72.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;81;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;75.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;57.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;78.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;71;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;62.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;67.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;77.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;79.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;63.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;66.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;53.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;77.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;84.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;67.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;68.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;101.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;74.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;94.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;54.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;88.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;49.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;83.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;71.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;102.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;77.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;89;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;74.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;40.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;73.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;54.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;83.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;71.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;80.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;69.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;73.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;68.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;65.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;61.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;60.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;85;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;45.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;55.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;57;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;98.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;69.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;80.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;82.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;82.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;75.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;78.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;104.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;78.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;73.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;85.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;96;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;72.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;89.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;70;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;63;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;78.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;52.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;79.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;94;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;92.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;68.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;70.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;86.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Creatinin ABL | µmol/L;59826-8;106.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Creatinin ABL | µmol/L;59826-8;68.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;36;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;45;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;40;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;47;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;53;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;48;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;46;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;39;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;45;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;48;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;37;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;59;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;33;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;43;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;37;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;35;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;47;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;50;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;52;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;39;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;39;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;47;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;39;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;53;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;56;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;33;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;52;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;39;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;48;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;46;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;53;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;43;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;52;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;34;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;51;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;47;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;37;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;34;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;28;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;43;B01;B01;B01;B01;B01;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;43;B01;B01;B01;B01;B01;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;50;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;46;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;26;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;52;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;35;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;55;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;46;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;48;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;46;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;54;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;48;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;39;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;45;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;43;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;48;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;49;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;46;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;43;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;53;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;48;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;47;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;36;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;50;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;44;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;45;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;51;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;41;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;38;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;55;A00;A00;A00;A00;A00;42;F;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;45;A00;A00;A00;A00;A00;42;M;routine;y;1
+eGFR nach CKD-EPI | mL/min;62238-1;40;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.74;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.24;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.75;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;3.72;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.95;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.94;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.97;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.64;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.97;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.84;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.99;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.69;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.95;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;3.94;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.08;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.79;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.51;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.51;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.67;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.17;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.44;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.43;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.26;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.05;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.98;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.48;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.21;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.74;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.33;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;3.89;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.09;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.01;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.14;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.91;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.36;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.73;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;5.32;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.24;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;5.04;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.46;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.82;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.39;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.41;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.24;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;3.97;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.46;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;5.12;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.81;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.07;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.03;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.62;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.39;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.22;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.23;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.72;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.61;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.22;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.47;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.57;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.44;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.19;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.38;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.77;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.42;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.55;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.52;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.25;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.33;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.44;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.83;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.78;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;5.44;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;3.86;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.58;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.35;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.68;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.97;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.99;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.22;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.42;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.59;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.87;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.53;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.72;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.42;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.18;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;5.38;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.14;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.43;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.63;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.76;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.34;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.72;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.17;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.36;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.34;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.39;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.02;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.19;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;3.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.96;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.75;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;5.05;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.12;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;3.88;A00;A00;A00;A00;A00;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.04;A00;A00;A00;A00;A00;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.23;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.54;B01;B01;B01;B01;B01;42;F;routine;y;1
+Erythrozyten | T/L;26453-1;4.49;B01;B01;B01;B01;B01;42;M;routine;y;1
+Erythrozyten | T/L;26453-1;4.52;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.473;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.892;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.547;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.625;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.296;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.758;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.006;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.399;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.107;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.051;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.723;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;6.393;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.122;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.905;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.845;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.386;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.139;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.206;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.081;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.535;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.821;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.777;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.428;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.892;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.496;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.39;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.545;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.932;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.149;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.376;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.156;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.685;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.722;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.476;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.169;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.999;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;3.774;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.141;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.902;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.323;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.825;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.842;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.422;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.572;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.26;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;6.17;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.624;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.539;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.096;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.286;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.689;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.67;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.992;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.419;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.392;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.468;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.946;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;6.277;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.484;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.334;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.431;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.65;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.095;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.625;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.645;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.119;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.595;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.833;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.753;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;3.292;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.418;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.492;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.788;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;6.219;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.135;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.935;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.622;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.387;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.977;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.346;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;3.858;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.667;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.233;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.956;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.829;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.596;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.195;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.097;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.545;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.035;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.452;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.725;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.175;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.228;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.923;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.557;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.288;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.099;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.112;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.361;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.046;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.483;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.259;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.681;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.529;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.594;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.333;A00;A00;A00;A00;A00;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.263;A00;A00;A00;A00;A00;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.304;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.701;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.169;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;5.144;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.104;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.719;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.24;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.995;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;4.406;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.867;B01;B01;B01;B01;B01;42;F;routine;y;1
+Glucose | mmol/L;14749-6;5.429;B01;B01;B01;B01;B01;42;M;routine;y;1
+Glucose | mmol/L;14749-6;4.407;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.53;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.38;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.41;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.52;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.57;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.42;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.56;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.58;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.61;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.58;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.41;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.55;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.48;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.47;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.54;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.47;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.39;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.39;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.56;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.46;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.57;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.38;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.58;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.53;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.48;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.49;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.54;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.35;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.49;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.59;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.54;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.36;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.49;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.56;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.47;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.38;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.41;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.64;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.57;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.49;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.49;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.54;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.38;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.29;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.59;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.53;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.49;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.42;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.58;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.46;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.53;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.52;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.62;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.52;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.59;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.49;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.48;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.41;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.52;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.53;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.59;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.62;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.43;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.53;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.58;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.46;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.55;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.48;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.57;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.54;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.36;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.45;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.42;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.51;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämatokrit | L/L;20570-8;0.34;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämatokrit | L/L;20570-8;0.44;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;161;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;133;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;140;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;138;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;129;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;134;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;137;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;137;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;142;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;128;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;115;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;144;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;110;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;127;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;141;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;130;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;141;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;125;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;124;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;135;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;126;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;134;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;148;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;139;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;131;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;143;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;156;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;133;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;145;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;123;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;132;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;140;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;148;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;123;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;135;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;144;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;132;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;128;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;127;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;134;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;136;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;130;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;132;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;152;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;149;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;131;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;132;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;135;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;111;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;136;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;147;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;125;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;129;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;153;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;120;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;134;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;127;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;170;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;126;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;126;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;135;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;128;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;122;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;138;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;125;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;124;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;123;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;122;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;126;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;141;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;133;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;123;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;126;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;142;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;126;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;143;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;122;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;135;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;133;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;123;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;130;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;143;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;124;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;133;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;130;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;137;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;121;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;156;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;143;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;137;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;142;A00;A00;A00;A00;A00;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;123;A00;A00;A00;A00;A00;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;127;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;143;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;139;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;132;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;127;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;127;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;124;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;132;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;148;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;138;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;146;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;141;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;143;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;148;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;141;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;137;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;120;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;116;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;137;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;132;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;127;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;129;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;127;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;143;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;143;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;134;B01;B01;B01;B01;B01;42;F;routine;y;1
+Hämoglobin | g/L;4711-1;137;B01;B01;B01;B01;B01;42;M;routine;y;1
+Hämoglobin | g/L;4711-1;143;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.16;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.01;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.22;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.75;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.13;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.31;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.44;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.58;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.51;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.15;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.13;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.69;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.24;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.95;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.23;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.84;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.61;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.21;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.98;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.78;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.78;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.14;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.85;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.29;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.95;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.06;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.14;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.17;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.93;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.02;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.25;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.92;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.32;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.56;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.62;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.29;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.78;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.21;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.19;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.99;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.61;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.15;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.04;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.66;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.78;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.79;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.22;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.96;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.47;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.15;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.72;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.09;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.75;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.93;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.94;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.12;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.28;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.54;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.89;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.07;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.29;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.02;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.04;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.11;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.12;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.19;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.93;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.61;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.12;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.43;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.24;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.81;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.76;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.46;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.99;A00;A00;A00;A00;A00;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.19;A00;A00;A00;A00;A00;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.85;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.21;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.14;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.08;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.77;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.26;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.98;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.88;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.98;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.29;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.98;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.98;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.99;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.14;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.49;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.23;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.05;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.14;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.32;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.16;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.22;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.13;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.93;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.95;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.82;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.32;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;3.92;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.27;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;4.08;B01;B01;B01;B01;B01;42;F;routine;y;1
+Kalium | mmol/L;2823-3;4.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+Kalium | mmol/L;2823-3;3.94;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;4;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;3;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;4;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;10;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;2;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;10;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;10;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Leukozyten | G/L;6690-2;5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Leukozyten | G/L;6690-2;8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;27;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;28;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;32;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;32;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;34;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;28;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;32;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;32;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;32;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;31;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;29;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;32;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCH | pg;28539-5;32;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;28;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;33;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;34;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;29;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;28;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;28;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;30;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCH | pg;28539-5;33;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCH | pg;28539-5;32;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;329;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;348;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;349;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;338;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;339;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;337;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;336;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;358;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;343;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;346;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;337;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;315;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;346;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;352;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;336;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;334;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;337;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;347;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;322;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;339;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;331;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;326;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;332;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;331;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;325;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;328;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;324;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;335;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;330;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;327;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;341;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;337;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;339;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;331;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;342;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;339;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;342;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;319;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;338;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;339;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;327;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;344;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;317;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;333;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;313;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;336;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;342;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;321;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;338;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;340;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;337;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;337;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;328;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;352;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;322;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;324;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;347;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;323;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;342;A00;A00;A00;A00;A00;42;M;routine;y;1
+MCHC | g/L;28540-3;347;A00;A00;A00;A00;A00;42;F;routine;y;1
+MCHC | g/L;28540-3;336;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;342;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;341;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;324;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;344;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;346;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;325;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;352;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;334;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;345;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;345;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;342;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;319;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;335;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;340;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;341;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;337;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;345;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;335;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;330;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;344;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;329;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;324;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;355;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;343;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;331;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;336;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;328;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;340;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;338;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;346;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;339;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;345;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;340;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;324;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;355;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;336;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;358;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;326;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;332;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;322;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;327;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;346;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;336;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;323;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;337;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;334;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;348;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;335;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;341;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;344;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;368;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;346;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;345;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;349;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;322;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;330;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;332;B01;B01;B01;B01;B01;42;F;routine;y;1
+MCHC | g/L;28540-3;332;B01;B01;B01;B01;B01;42;M;routine;y;1
+MCHC | g/L;28540-3;335;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;7.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;13.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;6.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;13;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;13;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;7.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;12.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;10.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;11.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV (mittleres Tc-Vol.) | fL;28542-9;8.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;8.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;12.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;11.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;9.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;9;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;8.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;7.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;9.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;8.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;12.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;6.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;9.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;8.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;9.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;11.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;8.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;12.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;8.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;8.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;9.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;5.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;12;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;9.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;11.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;13.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;12.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;10;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;11.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;7.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;9.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;9.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;12.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;11.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;12;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;10.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;9.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;12.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;8.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;8.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;8.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;11.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;12.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;11.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;10.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;11.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;12;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;7.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;9.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;10.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;8.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;10.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;12.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;10;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;10.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;11;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;11.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;9.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;8.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;11;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;8.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;7.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;11.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;9.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;7;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;8.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;11.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;10.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+MPV | fL;28542-9;8.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+MPV | fL;28542-9;11.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;8.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;11.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;7.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;11.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;8.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;9.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;10.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+MPV | fL;28542-9;10;A00;A00;A00;A00;A00;42;M;routine;y;1
+MPV | fL;28542-9;8.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;137.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;137.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;135.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;142.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;144.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;138.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;136.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;137.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;143.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;138.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;138.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;138.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;143.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;137;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;143.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;143.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;143.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;142.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;143.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;143.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;142.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;143.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;144;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;142.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;142.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;138.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;142.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;138;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;138.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;138.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;144.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;136.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;145.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;135.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;144.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;142.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;139.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+Natrium | mmol/L;2951-2;144.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;138.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;137.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;141.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;143.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;137.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;143.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;144.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;142.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;139.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;140;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;143;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;140.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+Natrium | mmol/L;2951-2;141.8;A00;A00;A00;A00;A00;42;M;routine;y;1
+Natrium | mmol/L;2951-2;143.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;30;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;39;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;40;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;44;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;43;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;40;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;45;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;50;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;29;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;41;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;36;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;41;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;45;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;40;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;41;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;48;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;44;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;43;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;54;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;40;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;40;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;55;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;38;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;44;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;34;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;37;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;42;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;37;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;34;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;40;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;49;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;45;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;45;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;37;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;52;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;41;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;46;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;52;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;36;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;42;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;39;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;44;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;43;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;39;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;42;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;41;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;41;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;45;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;36;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;45;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;41;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;32;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;48;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;56;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;38;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;48;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;46;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;46;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;37;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;45;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;41;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;37;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;46;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;39;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;42;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;50;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;42;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;47;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;49;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;50;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;51;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;44;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;39;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;42;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;39;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;31;B01;B01;B01;B01;B01;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;31;B01;B01;B01;B01;B01;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;37;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;53;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;36;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;50;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;42;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;38;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;47;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;57;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;48;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;39;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;48;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;46;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;35;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;46;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;51;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;43;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;34;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;45;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;39;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;42;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;37;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;32;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;43;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;42;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;44;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;34;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;46;A00;A00;A00;A00;A00;42;F;routine;y;1
+pCO2 | mm Hg;11557-6;46;A00;A00;A00;A00;A00;42;M;routine;y;1
+pCO2 | mm Hg;11557-6;49;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.404;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.401;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.424;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.433;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.384;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.446;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.381;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.39;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.449;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.447;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.381;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.429;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.373;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.394;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.45;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.387;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.402;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.461;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.469;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.407;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.42;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.386;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.411;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.43;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.411;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.416;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.448;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.412;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.414;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.44;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.422;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.444;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.433;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.402;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.372;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.393;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.42;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.474;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.41;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.394;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.415;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.381;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.427;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.407;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.388;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.429;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.436;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.405;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.45;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.409;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.399;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.404;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.394;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.456;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.422;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.425;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.412;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.42;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.445;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.391;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.417;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.408;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.42;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.399;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.435;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.425;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.464;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.414;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.432;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.438;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.421;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.405;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.441;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.433;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.405;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.408;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.433;B01;B01;B01;B01;B01;42;M;routine;y;1
+pH;11558-4;7.437;B01;B01;B01;B01;B01;42;F;routine;y;1
+pH;11558-4;7.416;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.423;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.424;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.397;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.388;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.409;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.407;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.423;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.422;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.441;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.393;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.421;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.418;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.436;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.428;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.439;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.424;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.41;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.442;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.391;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.418;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.466;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.411;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.393;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.408;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.429;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.412;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.435;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.414;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.418;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.431;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.436;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.434;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.447;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.413;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.449;A00;A00;A00;A00;A00;42;F;routine;y;1
+pH;11558-4;7.423;A00;A00;A00;A00;A00;42;M;routine;y;1
+pH;11558-4;7.406;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;106;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;98;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;112;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;107;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;115;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;107;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;93;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;102;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;107;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;99;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;121;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;97;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;136;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;136;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;124;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;120;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;107;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;141;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;97;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;93;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;92;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;113;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;122;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;102;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;74;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;97;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;105;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;84;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;124;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;97;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;113;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;128;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;126;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;127;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;103;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;130;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;111;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;97;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;116;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;114;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;123;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;121;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;121;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;115;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;112;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;115;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;124;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;103;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;88;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;139;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;81;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;128;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;96;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;78;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;123;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;89;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;102;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;114;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;104;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;114;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;102;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;108;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;76;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;86;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;105;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;131;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;101;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;112;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;133;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;104;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;138;B01;B01;B01;B01;B01;42;M;routine;y;1
+pO2 | mm Hg;11556-8;119;B01;B01;B01;B01;B01;42;F;routine;y;1
+pO2 | mm Hg;11556-8;135;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;139;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;93;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;93;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;81;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;111;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;117;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;103;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;88;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;127;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;95;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;116;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;91;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;140;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;99;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;133;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;115;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;105;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;115;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;92;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;93;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;106;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;108;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;108;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;92;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;95;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;107;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;118;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;123;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;129;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;136;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;113;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;94;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;131;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;112;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;104;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;120;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;73;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;109;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;111;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;93;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;73;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;127;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;109;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;65;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;107;A00;A00;A00;A00;A00;42;F;routine;y;1
+pO2 | mm Hg;11556-8;124;A00;A00;A00;A00;A00;42;M;routine;y;1
+pO2 | mm Hg;11556-8;65;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;15.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;16.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;19.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.5;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;16.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;15.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;18.6;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.1;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;20.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;15.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.8;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;16.3;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;18.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.7;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;15.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.9;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.5;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;19.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;18;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;15.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;18.1;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;18.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;16.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;16.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;19;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;17.6;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;16;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;15.9;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;16;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.4;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.4;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.3;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;17.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;19.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;19.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.2;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.8;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;16.9;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;16.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;19.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.7;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;15.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.5;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;16.2;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.6;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.4;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;15.9;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.7;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.1;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.5;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.1;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;17.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.6;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;16.3;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;18.3;A00;A00;A00;A00;A00;42;M;routine;y;1
+RDW | %;30385-9;18.4;A00;A00;A00;A00;A00;42;F;routine;y;1
+RDW | %;30385-9;17.7;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.2;B01;B01;B01;B01;B01;42;F;routine;y;1
+RDW | %;30385-9;18.2;B01;B01;B01;B01;B01;42;M;routine;y;1
+RDW | %;30385-9;18.8;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;230;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;391;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;298;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;293;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;277;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;231;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;281;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;279;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;280;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;314;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;256;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;236;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;256;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;289;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;347;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;171;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;299;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;251;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;262;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;201;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;213;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;217;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;269;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;225;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;202;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;305;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;291;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;272;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;159;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;277;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;248;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;268;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;375;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;204;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;304;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;276;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;259;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;268;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;279;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;267;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;190;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;245;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;230;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;247;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;309;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;205;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;208;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;253;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;273;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;279;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;229;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;302;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;299;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;206;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;294;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;216;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;224;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;267;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;283;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;251;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;312;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;290;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;295;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;304;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;310;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;244;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;361;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;349;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;258;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;182;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;294;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;199;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;144;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;181;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;263;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;166;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;253;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;234;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;234;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;265;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;218;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;180;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;111;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;319;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;239;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;307;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;378;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;275;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;297;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;210;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;263;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;297;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;203;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;339;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;187;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;325;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;311;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;309;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;176;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;220;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;251;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;281;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;190;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;218;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;230;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;320;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;301;A00;A00;A00;A00;A00;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;213;A00;A00;A00;A00;A00;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;307;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;268;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;169;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;343;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;321;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;283;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;275;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;234;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;235;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;246;B01;B01;B01;B01;B01;42;F;routine;y;1
+Thrombozyten | G/L;26515-7;281;B01;B01;B01;B01;B01;42;M;routine;y;1
+Thrombozyten | G/L;26515-7;186;B01;B01;B01;B01;B01;42;F;routine;y;1

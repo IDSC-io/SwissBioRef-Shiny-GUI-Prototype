@@ -1,0 +1,23 @@
+lab_test;parametric
+ALAT | U/L;TRUE
+ASAT | U/L;TRUE
+C-reaktives Protein | mg/L;FALSE
+Chlorid | mmol/L;TRUE
+Creatinin ABL | µmol/L;TRUE
+eGFR nach CKD-EPI | mL/min;FALSE
+Erythrozyten | T/L;TRUE
+Glucose | mmol/L;TRUE
+Hämatokrit | L/L;TRUE
+Hämoglobin | g/L;TRUE
+Kalium | mmol/L;TRUE
+Leukozyten | G/L;TRUE
+MCH | pg;TRUE
+MCHC | g/L;TRUE
+MPV (mittleres Tc-Vol.) | fL;TRUE
+MPV | fL;TRUE
+Natrium | mmol/L;TRUE
+pCO2 | mm Hg;TRUE
+pH;TRUE
+pO2 | mm Hg;FALSE
+RDW | %;FALSE
+Thrombozyten | G/L;FALSE
